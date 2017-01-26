@@ -1,3 +1,4 @@
+/* Elements */
 * {
 	
 }
@@ -8,5 +9,22 @@ p	{
 
 h1 {
 	
+	
+}
+
+
+/* IDs */
+#mainheader{
+	
+	font-family: 'Oswald', sans-serif;
+	word-spacing: 0.05em;
+	
+}
+
+
+/* Classes */
+.main {
+	font-family: 'Open Sans', sans-serif;
+	line-spacing: 0em;
 	
 }
