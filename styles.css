@@ -17,8 +17,8 @@ h1 {
 #mainheader{
 	
 	font-family: 'Oswald', sans-serif;
-	
-	font-size: 5em;
+	word-spacing: 0.05em;
+	font-size: 2em;
 	text-align: center;
 	
 }
@@ -27,7 +27,6 @@ h1 {
 /* Classes */
 .main {
 	font-family: 'Open Sans', sans-serif;
-	word-spacing: 0.05em;
 	line-spacing: 0em;
 	
 }
