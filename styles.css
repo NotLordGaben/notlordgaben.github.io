@@ -1,26 +1,26 @@
 /* Elements */
 * {
-  border: 1px solid rgba(0, 0, 0, 0.3);
+  
 }
 
 p	{
-	
+
 }
 
 h1 {
-	
-	
+
+
 }
 
 
 /* IDs */
 #mainheader{
-	
+
 	font-family: 'Oswald', sans-serif;
 	word-spacing: 0.05em;
 	font-size: 2em;
 	text-align: center;
-	
+
 }
 
 
@@ -28,5 +28,5 @@ h1 {
 .main {
 	font-family: 'Open Sans', sans-serif;
 	line-spacing: 0em;
-	
+
 }
